@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Custom_Button" parent="Widget.MaterialComponents.Button">
+        <item name="android:backgroundTint">#9C27B0</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">34sp</item>
+        <item name="cornerRadius">20dp</item>
+        <item name="textAllCaps">true</item>
+    </style>
+
+    <style name="Custom_TextView">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#123456</item>
+    </style>
+</resources>
